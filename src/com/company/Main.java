@@ -22,5 +22,11 @@ public class Main {
         FacX.color="green";
         FacX.radius="738y4932749km";
         FacX.size="9999999999m";
+
+        //adding planet2
+        Planet2 p=new Planet2();
+        p.color="blue";
+        p.size="558";
+        p.name="khan";
     }
 }
